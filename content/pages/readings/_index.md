@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d0de6121-14b3-13d6-1594-c39c3ee7ff5c
 ---
@@ -38,13 +41,13 @@ READINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Introduction and Background**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 1: The Nineteenth-Century Legacy
 {{< tdclose >}}
 {{< tdopen >}}
@@ -80,13 +83,13 @@ Maxwell, Electrodynamics, and Cambridge Wranglers
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Einstein: Relativity, Quanta, and the Philosopher-Scientist**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 2: The Rise of Theoretical Physics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -122,7 +125,7 @@ Special Relativity and the Ether
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 3: Philosophy, Experiment, and Special Relativity
 {{< tdclose >}}
 {{< tdopen >}}
@@ -180,7 +183,7 @@ The Origins of General Relativity
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 5: First Stirrings of Quantum Theory
 {{< tdclose >}}
 {{< tdopen >}}
@@ -216,7 +219,7 @@ Rethinking Matter
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 6: Emergence of Quantum Mechanics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -253,7 +256,7 @@ Waves and Probabilities
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 7: The Contexts of Quanta
 {{< tdclose >}}
 {{< tdopen >}}
@@ -290,13 +293,13 @@ Bell's Theorem and Entanglement
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Oppenheimer: Physics, Physicists, and the State**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 8: Bomb Physics, Here and There
 {{< tdclose >}}
 {{< tdopen >}}
@@ -333,7 +336,7 @@ Film: The Day After Trinity
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 9: Physics on the Front
 {{< tdclose >}}
 {{< tdopen >}}
@@ -370,7 +373,7 @@ Secrecy and security in the nuclear age
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 10: Cold War Physics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -429,13 +432,13 @@ The Rise of Big Science
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Feynman and Postwar Theory**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 12: Particles and Fields
 {{< tdclose >}}
 {{< tdopen >}}
@@ -508,7 +511,7 @@ The Birth of Particle Cosmology
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 14: Cosmology and Unification
 {{< tdclose >}}
 {{< tdopen >}}

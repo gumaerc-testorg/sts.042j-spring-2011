@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: d0de6121-14b3-13d6-1594-c39c3ee7ff5c
 title: Some Reading Strategies for History Courses
 uid: 4dcffd6b-d753-b3c9-9f75-de06871b3ca7

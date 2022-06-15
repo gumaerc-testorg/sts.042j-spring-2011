@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of suggestions for how to read for history
+  courses.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

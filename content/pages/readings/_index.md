@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the readings for each session of the course, the
+  list of required textbooks, and information on reading strategies.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -19,7 +21,7 @@ All reading assignments are required, and should be completed before each lectur
 Reading Strategies
 ------------------
 
-[Cathryn Carson](https://history.berkeley.edu/cathryn-carson), of the University of California Berkley has a list of suggestions on how to read for history courses. [Read more]({{< baseurl >}}/pages/readings/some-reading-strategies-for-history-courses)
+[Cathryn Carson](https://history.berkeley.edu/cathryn-carson), of the University of California Berkley has a list of suggestions on how to read for history courses. {{% resource_link 4dcffd6b-d753-b3c9-9f75-de06871b3ca7 "Read more" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -424,7 +426,7 @@ The Rise of Big Science
 
 
 *   Morrison, Philip. "[The Laboratory Demobilizes](http://books.google.co.in/books?id=WgwAAAAAMBAJ&pg=PA5&lpg=PA5&dq=The+Laboratory+Demobilized+by+philip+morrison&source=bl&ots=QS-Ozbt5MJ&sig=pM1GT_oQa1_kT5h6yZXrdp4QijM&hl=en&ei=iq7DTpaNMs7rrQfQq4DLCw&sa=X&oi=book_result&ct=result&resnum=8&ved=0CEIQ6AEwBw#v=onepage&q&f=false)." _Bulletin of the Atomic Scientists_ 2 (1946): 5–6.
-*   Kaiser, David. "The Postwar Suburbanization of American Physics." _American Quarterly_ 56 (2004): 851–88. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/dikaiser/www/Kaiser.Suburbs.pdf))
+*   Kaiser, David. "The Postwar Suburbanization of American Physics." _American Quarterly_ 56 (2004): 851–88. ([PDF](http://web.mit.edu/dikaiser/www/Kaiser.Suburbs.pdf))
 *   Kaiser, David. "Training Quantum Mechanics." _Physics World_ 20 (2007): 28–33.
 
 
@@ -504,7 +506,7 @@ The Birth of Particle Cosmology
 {{< tdopen >}}
 
 
-*   Kaiser, David. "When Fields Collide." _Scientific American_ 296 (2007): 62–9. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/dikaiser/www/Kaiser.FieldsCollide.pdf))
+*   Kaiser, David. "When Fields Collide." _Scientific American_ 296 (2007): 62–9. ([PDF](http://web.mit.edu/dikaiser/www/Kaiser.FieldsCollide.pdf))
 
 
 {{< tdclose >}}

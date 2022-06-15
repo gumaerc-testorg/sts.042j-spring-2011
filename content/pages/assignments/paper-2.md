@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides instructions for the second paper of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

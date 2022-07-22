@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the subject description and information
+  on course meeting times, requirements, grading, and the schedule of weekly topics,
+  sessions topics, and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b35783dd-50ad-8272-683b-fc5f49f6a845
 ---
@@ -12,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Subject Description
 -------------------
 
-This course explores the changing roles of physics and physicists during the 20th century. Ranges from relativity theory and quantum mechanics to high-energy physics and cosmology. Examines the development of modern physics within shifting institutional, cultural, and political contexts, such as physics in Imperial Britain, Nazi Germany, US efforts during World War II, and physicists' roles during the cold war.
+This course explores the changing roles of physics and physicists during the 20{{< sup "th" >}} century. Ranges from relativity theory and quantum mechanics to high-energy physics and cosmology. Examines the development of modern physics within shifting institutional, cultural, and political contexts, such as physics in Imperial Britain, Nazi Germany, US efforts during World War II, and physicists' roles during the cold war.
 
 Subject Requirements
 --------------------
@@ -98,13 +103,13 @@ KEY DATES
 {{< theadclose >}}
 
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Introduction and Background**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 1: The Nineteenth-Century Legacy
 {{< tdclose >}}
 {{< tdopen >}}
@@ -132,13 +137,13 @@ Maxwell, Electrodynamics, and Cambridge Wranglers
 {{< trclose >}}
 
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Einstein: Relativity, Quanta, and the Philosopher-Scientist**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 2: The Rise of Theoretical Physics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -165,7 +170,7 @@ Special Relativity and the Ether
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 3: Philosophy, Experiment, and Special Relativity
 {{< tdclose >}}
 {{< tdopen >}}
@@ -207,7 +212,7 @@ Paper 1 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 5: First Stirrings of Quantum Theory
 {{< tdclose >}}
 {{< tdopen >}}
@@ -234,7 +239,7 @@ Rethinking Matter
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 6: Emergence of Quantum Mechanics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -261,7 +266,7 @@ Waves and Probabilities
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 7: The Contexts of Quanta
 {{< tdclose >}}
 {{< tdopen >}}
@@ -288,13 +293,13 @@ Paper 2 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Oppenheimer: Physics, Physicists, and the State**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 8: Bomb Physics, Here and There
 {{< tdclose >}}
 {{< tdopen >}}
@@ -321,7 +326,7 @@ Film: The Day After Trinity
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 9: Physics on the Front
 {{< tdclose >}}
 {{< tdopen >}}
@@ -348,7 +353,7 @@ Secrecy and security in the nuclear age
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 10: Cold War Physics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -390,13 +395,13 @@ The Rise of Big Science
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Feynman and Postwar Theory**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 12: Particles and Fields
 {{< tdclose >}}
 {{< tdopen >}}
@@ -450,7 +455,7 @@ The Birth of Particle Cosmology
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 14: Cosmology and Unification
 {{< tdclose >}}
 {{< tdopen >}}

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides instructions for revising the second paper of the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2af84446-3d51-5113-f350-4f97b02e2f10
 title: Paper 2 Revision
 uid: 45d2f37b-7403-cac7-8862-aa15b908ada8

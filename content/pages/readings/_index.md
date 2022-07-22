@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the readings for each session of the course, the
+  list of required textbooks, and information on reading strategies.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d0de6121-14b3-13d6-1594-c39c3ee7ff5c
 ---
@@ -16,7 +21,7 @@ All reading assignments are required, and should be completed before each lectur
 Reading Strategies
 ------------------
 
-[Cathryn Carson](https://history.berkeley.edu/cathryn-carson), of the University of California Berkley has a list of suggestions on how to read for history courses. [Read more]({{< baseurl >}}/pages/readings/some-reading-strategies-for-history-courses)
+[Cathryn Carson](https://history.berkeley.edu/cathryn-carson), of the University of California Berkley has a list of suggestions on how to read for history courses. {{% resource_link 4dcffd6b-d753-b3c9-9f75-de06871b3ca7 "Read more" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -38,13 +43,13 @@ READINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Introduction and Background**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 1: The Nineteenth-Century Legacy
 {{< tdclose >}}
 {{< tdopen >}}
@@ -80,13 +85,13 @@ Maxwell, Electrodynamics, and Cambridge Wranglers
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Einstein: Relativity, Quanta, and the Philosopher-Scientist**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 2: The Rise of Theoretical Physics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -122,7 +127,7 @@ Special Relativity and the Ether
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 3: Philosophy, Experiment, and Special Relativity
 {{< tdclose >}}
 {{< tdopen >}}
@@ -180,7 +185,7 @@ The Origins of General Relativity
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 5: First Stirrings of Quantum Theory
 {{< tdclose >}}
 {{< tdopen >}}
@@ -216,7 +221,7 @@ Rethinking Matter
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 6: Emergence of Quantum Mechanics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -253,7 +258,7 @@ Waves and Probabilities
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 7: The Contexts of Quanta
 {{< tdclose >}}
 {{< tdopen >}}
@@ -290,13 +295,13 @@ Bell's Theorem and Entanglement
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Oppenheimer: Physics, Physicists, and the State**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 8: Bomb Physics, Here and There
 {{< tdclose >}}
 {{< tdopen >}}
@@ -333,7 +338,7 @@ Film: The Day After Trinity
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 9: Physics on the Front
 {{< tdclose >}}
 {{< tdopen >}}
@@ -370,7 +375,7 @@ Secrecy and security in the nuclear age
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 10: Cold War Physics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -421,7 +426,7 @@ The Rise of Big Science
 
 
 *   Morrison, Philip. "[The Laboratory Demobilizes](http://books.google.co.in/books?id=WgwAAAAAMBAJ&pg=PA5&lpg=PA5&dq=The+Laboratory+Demobilized+by+philip+morrison&source=bl&ots=QS-Ozbt5MJ&sig=pM1GT_oQa1_kT5h6yZXrdp4QijM&hl=en&ei=iq7DTpaNMs7rrQfQq4DLCw&sa=X&oi=book_result&ct=result&resnum=8&ved=0CEIQ6AEwBw#v=onepage&q&f=false)." _Bulletin of the Atomic Scientists_ 2 (1946): 5–6.
-*   Kaiser, David. "The Postwar Suburbanization of American Physics." _American Quarterly_ 56 (2004): 851–88. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/dikaiser/www/Kaiser.Suburbs.pdf))
+*   Kaiser, David. "The Postwar Suburbanization of American Physics." _American Quarterly_ 56 (2004): 851–88. ([PDF](http://web.mit.edu/dikaiser/www/Kaiser.Suburbs.pdf))
 *   Kaiser, David. "Training Quantum Mechanics." _Physics World_ 20 (2007): 28–33.
 
 
@@ -429,13 +434,13 @@ The Rise of Big Science
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 **Feynman and Postwar Theory**
 {{< thclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 12: Particles and Fields
 {{< tdclose >}}
 {{< tdopen >}}
@@ -501,14 +506,14 @@ The Birth of Particle Cosmology
 {{< tdopen >}}
 
 
-*   Kaiser, David. "When Fields Collide." _Scientific American_ 296 (2007): 62–9. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/dikaiser/www/Kaiser.FieldsCollide.pdf))
+*   Kaiser, David. "When Fields Collide." _Scientific American_ 296 (2007): 62–9. ([PDF](http://web.mit.edu/dikaiser/www/Kaiser.FieldsCollide.pdf))
 
 
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 14: Cosmology and Unification
 {{< tdclose >}}
 {{< tdopen >}}

@@ -12,10 +12,10 @@ image_metadata:
   image-alt: "A photograph of a sculpture, which in large silver shapes forms Einstein's\
     \ famous theory of relativity, \"e = mc\xB2.\""
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: "Die Relativit\xE4tstheorie"
 uid: 00aedcd6-908f-71ed-9ce9-aff6ec9148b7
 ---
 "Die Relativitätstheorie" in front of Old Museum, Berlin. Photo courtesy of Gertrude K. on Flickr. 
-

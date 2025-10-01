@@ -47,7 +47,7 @@ When you start to compose your paper, think carefully about its structure. Do yo
 
 _Examples of Primary Sources_
 
-1. York, Herbert. "The GAC report of October 30, 1949." In _The Advisors: Oppenheimer, Teller, and the Superbomb(Stanford Nuclear Age Series)_. 2nd ed. Stanford University Press, 1989 \[1976\], pp. 153–62. ISBN: 9780804717144. Reprinted. \[Preview with [Google Books](http://books.google.com/books?id=46-ofw7L2MAC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)\]
+1. York, Herbert. "The GAC report of October 30, 1949." In _The Advisors: Oppenheimer, Teller, and the Superbomb(Stanford Nuclear Age Series)_. 2nd ed. Stanford University Press, 1989 \[1976\], pp. 153–62. ISBN: 9780804717144. Reprinted. \[Preview with {{% resource_link "bb2028a9-9986-46f8-bf04-cc8defc8aed3" "Google Books" %}}\]
 2. Joint Committee on Atomic Energy. _Soviet Atomic Espionage._ Government Printing Office, 1951, pp. 1–37. ISBN: 9781589631342.
 3. Excerpts from FBI file on J. Robert Oppenheimer.
 4. Polenberg, Richard, ed. _In the Matter of J. Robert Oppenheimer: The Security Clearance Hearing (Cornell Paperbacks)_. Cornell University Press, 2002, pp. 94–111. ISBN: 9780801437830.
@@ -57,8 +57,8 @@ _Examples of Secondary Sources_
 1. Bernstein, Bart. "'In the Matter of J. Robert Oppenheimer.'" _Historical Studies in the Physical Sciences_ 12 (1982): 195–252.
 2. Forman, Paul. "Behind Quantum Electronics: National Security As Basis for Physical Research in the United States, 1940–1960." _Historical Studies in the Physical and Biological Sciences_ 18 (1987): 149-229.
 3. Galison, Peter, and Barton Bernstein. "'In Any Light': Scientists and the Decision to Build the Hydrogen Bomb." _Historical Studies in the Physical and Biological Sciences_ 19 (1989): 267–347.
-4. Wang, Jessica. "[Science, Security, and the Cold War: The Case of E. U. Condon](http://www.jstor.org/pss/234506)." _Isis_ 83 (1992): 238–69.
-5. Kaiser, David. "The Atomic Secret in Red Hands? American Suspicions of Theoretical Physicists During the Early Cold War." _Representations_ 90 (2005): 28–60. ([PDF](http://web.mit.edu/dikaiser/www/Kaiser.RedTheorists.pdf))
+4. Wang, Jessica. "{{% resource_link "43aa3a6b-40ad-40e0-a161-d465b18fa046" "Science, Security, and the Cold War: The Case of E. U. Condon" %}}." _Isis_ 83 (1992): 238–69.
+5. Kaiser, David. "The Atomic Secret in Red Hands? American Suspicions of Theoretical Physicists During the Early Cold War." _Representations_ 90 (2005): 28–60. ({{% resource_link "c7e35d20-c3bb-4882-b553-baa5312a8178" "PDF" %}})
 6. Freire, Olival. "Science and Exile: David Bohm, the Cold War, and a New Interpretation of Quantum Mechanics." _Historical Studies in the Physical and Biological Sciences_ 36 (2005): 1–34.
 7. Kaiser, David. "The Physics of Spin: Sputnik Politics and American Physicists in the 1950s." _Social Research_ 73 (2006): 1225–52.
 
@@ -66,9 +66,9 @@ _Examples of Secondary Sources_
 
 _Examples of Primary Sources_
 
-1. Hentschel, Klaus, ed. Selections from _Physics and National Socialism: An Anthology of Primary Sources_. Translated by Ann Hentschel. Birkhäuser Basel, 1996, pp. 332–406. ISBN: 9783764353124. \[Preview with [Google Books](http://books.google.com/books?id=sl69XGiohsoC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)\] \[This contains several separate primary sources; you need not draw on all of the sources included here.\]
+1. Hentschel, Klaus, ed. Selections from _Physics and National Socialism: An Anthology of Primary Sources_. Translated by Ann Hentschel. Birkhäuser Basel, 1996, pp. 332–406. ISBN: 9783764353124. \[Preview with {{% resource_link "d8d2619f-13e7-4281-bbee-b689c513b987" "Google Books" %}}\] \[This contains several separate primary sources; you need not draw on all of the sources included here.\]
 2. Frank, Charles, ed. _Farm Hall Transcripts._ University of California Press, 1993, pp. 70–91. ISBN: 9780520084995.
-3. Documents regarding the 1941 meeting in Copenhagen between Niels Bohr and Werner Heisenberg, available on-line at the [Niels Bohr Archive](https://www.nbarchive.dk/) website. 
+3. Documents regarding the 1941 meeting in Copenhagen between Niels Bohr and Werner Heisenberg, available on-line at the {{% resource_link "687c8cc8-5004-41d6-a761-dfa5be98c745" "Niels Bohr Archive" %}} website. 
 
 _Examples of Secondary Sources_
 

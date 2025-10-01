@@ -7,8 +7,8 @@ file_size: 7013
 file_type: image/jpeg
 image_metadata:
   caption: "\"Die Relativit\xE4tstheorie\" in front of Old Museum, Berlin. (Photo\
-    \ courtesy of [Gertrude K.](http://www.flickr.com/photos/gertrudk/156209198/)\
-    \ on Flickr.)"
+    \ courtesy of {{% resource_link \"812120e7-e143-4268-b27b-e55bc4c06d99\" \"Gertrude\
+    \ K.\" %}} on Flickr.)"
   credit: Photo courtesy of Gertrude K. on Flickr.
   image-alt: "A photograph of a sculpture, which in large silver shapes forms Einstein's\
     \ famous theory of relativity, \"e = mc\xB2.\""
